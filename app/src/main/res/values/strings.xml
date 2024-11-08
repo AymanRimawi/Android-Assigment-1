@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Project1</string>
+    <string-array name="days">
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+
+    </string-array>
+
+    <string-array name="pratices">
+        <item>Deadlift</item>
+        <item>T-Bar Row</item>
+        <item>One-Leg Plank</item>
+        <item>30-Degree Lat Pulldown</item>
+        <item>Pullups</item>
+        <item>Farmer’s Walk and Trap Bar Carry</item>
+        <item>Seated Incline Dumbbell Curl</item>
+        <item>Standing Barbell Curl</item>
+        <item>Dips</item>
+        <item>Diamond Pushups</item>
+        <item> Shrugs</item>
+        <item>Dumbbell Lateral Raises</item>
+        <item>Presses</item>
+        <item>Rear Delt Raises</item>
+
+
+
+    </string-array>
+
+
+
+
+</resources>
